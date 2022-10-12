@@ -1,3 +1,4 @@
+# find water on Mars using a fleet of autonomous sensors
 # QAI British Columbia Team -- BIG Quantum Hackathon 2022
 
 The BIG Quantum Hackathon by Québec Quantique and QuantX, the first of a kind competition, aimed to gather the whole value chain of Quantum Computing and demonstrate its ability to address real life challenges. During the event, the business world represented by industrial and financial companies, venture capital / private equity investors, and consulting groups joined forces with quantum computing specialists from academia, quantum hardware and software providers to approach a set of longstanding problems from different domains: chemistry, machine learning, optimization, numerical simulations, etc.
